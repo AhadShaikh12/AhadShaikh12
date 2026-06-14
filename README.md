@@ -1,6 +1,3 @@
-# `README.md`
-
-```markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Ahad%20Shaikh&fontSize=45&fontColor=00FF99&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20|%20SOC%20Analyst%20Aspirant&descAlignY=58"/>
@@ -176,5 +173,3 @@ Currently focused on SIEM technologies, malware analysis, and threat hunting whi
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
-
-```
