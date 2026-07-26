@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Ahad%20Shaikh&fontSize=45&fontColor=00FF99&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20|%20SOC%20Analyst%20Aspirant&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Ahad%20Shaikh&fontSize=45&fontColor=00FF99&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20|%20Threat%20Intelligence%20|%20Incident%20Response&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;SOC+Analyst+Aspirant;Threat+Hunter;Blue+Team+Learner;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Cybersecurity;Threat+Intelligence;Threat+Hunting;Incident+Response;Malware+Analysis"/>
 
 <img src="https://komarev.com/ghpvc/?username=AhadShaikh12&label=Profile+Views&color=0e75b6&style=flat"/>
 
@@ -16,17 +16,28 @@
 
 # 🛡 About Me
 
-Cybersecurity enthusiast and BCA student passionate about Security Operations, Threat Intelligence, and Incident Response.
+Cybersecurity-focused BCA student with practical experience in security monitoring, threat detection, malware analysis, network security, and incident response.
 
-I enjoy investigating security events, analyzing logs, and continuously improving my defensive security skills through hands-on labs and practical learning.
+Experienced in analyzing security logs, investigating suspicious activities, performing network traffic analysis, and working with SIEM platforms including Splunk and Elastic to identify and respond to security events.
 
-Currently focused on SIEM technologies, malware analysis, and threat hunting while building a strong foundation in Blue Team operations.
+Continuously expanding technical expertise through practical cybersecurity projects, hands-on labs, and real-world security simulations while strengthening defensive security and threat intelligence skills.
+
+### 🔍 Current Focus
+
+- Threat Detection
+- Malware Analysis
+- Threat Hunting
+- Threat Intelligence
+- SIEM (Splunk & Elastic)
+- Incident Response
+- Log Analysis
+- Network Traffic Analysis
 
 </td>
 
 <td width="45%" align="center">
 
-<img width="280" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+<img width="280" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 </td>
 </tr>
@@ -38,7 +49,7 @@ Currently focused on SIEM technologies, malware analysis, and threat hunting whi
 
 # 💻 Languages & Technologies
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql,postgres,mongodb,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cs,html,css,dotnet,mongodb,mysql,git,github,vscode"/>
 
 </div>
 
@@ -65,7 +76,6 @@ Currently focused on SIEM technologies, malware analysis, and threat hunting whi
 <img src="https://img.shields.io/badge/DNS-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HTTP/HTTPS-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OSI_Model-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Subnetting-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Packet_Analysis-orange?style=for-the-badge"/>
 
 </div>
@@ -76,6 +86,10 @@ Currently focused on SIEM technologies, malware analysis, and threat hunting whi
 
 # ⚙ Security Tools
 
+<img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk"/>
+<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Event_Viewer-0078D4?style=for-the-badge"/>
@@ -89,7 +103,7 @@ Currently focused on SIEM technologies, malware analysis, and threat hunting whi
 
 <div align="center">
 
-# 🛡 Blue Team Skills
+# 🛡 Security Operations
 
 <img src="https://img.shields.io/badge/SIEM_Monitoring-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Threat_Hunting-red?style=for-the-badge"/>
@@ -108,13 +122,13 @@ Currently focused on SIEM technologies, malware analysis, and threat hunting whi
 
 <div align="center">
 
-# ⚔ Offensive Security
+# 🔍 Security Assessment
 
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL_Injection-darkred?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Enumeration-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OSINT-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Web_Reconnaissance-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vulnerability_Assessment-red?style=for-the-badge"/>
 
 </div>
 
@@ -168,7 +182,7 @@ Currently focused on SIEM technologies, malware analysis, and threat hunting whi
 
 <div align="center">
 
-### ⚡ Continuous learning and curiosity are the strongest tools in cybersecurity.
+### 🔒 Analyze • Detect • Respond
 
 </div>
 
