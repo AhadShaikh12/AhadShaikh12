@@ -1,51 +1,62 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:101820,100:164E63&text=Ahad%20Shaikh&fontSize=45&fontColor=FFFFFF&fontAlignY=40&desc=Cybersecurity%20%7C%20VAPT%20%7C%20SIEM%20%7C%20Web%20Security&descAlignY=62&descSize=16"/>
+# AHAD SHAIKH
 
 ### Cybersecurity Enthusiast | BCA Student
 
-Passionate about cybersecurity, vulnerability assessment, penetration testing, security monitoring, and software development.
+**SOC Operations • Blue Team • SIEM Monitoring • Network Security**
 
-<br/>
-
-<a href="https://portfolio-psi-three-y5gccvehps.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-14B8A6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/ahad-shaikh-747625279">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://tryhackme.com/p/AhadShk">
-<img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
+BCA Student at Somaiya Vidyavihar University
 
 </div>
 
 ---
+
+<table>
+<tr>
+<td width="60%" valign="center">
 
 ## About Me
 
-I'm a Bachelor of Computer Applications (BCA) student with a strong interest in cybersecurity and software development.
+I'm a BCA student at Somaiya Vidyavihar University, passionate about cybersecurity and defensive security operations.
 
-I enjoy exploring security vulnerabilities, analysing network traffic, investigating security logs, and understanding how applications and networks can be secured.
+I enjoy analysing security logs, investigating suspicious activities, understanding network traffic, and exploring how organisations detect and respond to cyber threats.
 
-Alongside cybersecurity, I work with programming languages, databases, and web development technologies to build practical projects.
+My primary interests include SOC Operations, Blue Team Security, SIEM Monitoring, Threat Detection, Malware Analysis and Network Security.
 
-I continuously develop my skills through hands-on labs, technical projects, and cybersecurity platforms such as TryHackMe.
+I continuously develop my technical knowledge through hands-on labs, practical exercises and independent projects.
+
+</td>
+<td width="40%" align="center" valign="center">
+
+<img width="250" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+
+<br/>
+
+**TRYHACKME**
+
+**Top 1% | 100+ Rooms**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Programming Languages & Web Technologies
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,dotnet,git,github,vscode"/>
+## Programming & Web Technologies
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,vscode"/>
 
 </div>
 
-## Databases
+---
 
 <div align="center">
+
+## Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 
@@ -53,16 +64,22 @@ I continuously develop my skills through hands-on labs, technical projects, and 
 
 ---
 
-## Cybersecurity Tools
-
 <div align="center">
+
+## Security Tools
 
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/John_the_Ripper-333333?style=for-the-badge"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
@@ -70,9 +87,9 @@ I continuously develop my skills through hands-on labs, technical projects, and 
 
 ---
 
-## SIEM & Security Platforms
-
 <div align="center">
+
+## SIEM & Security Platforms
 
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
@@ -81,86 +98,70 @@ I continuously develop my skills through hands-on labs, technical projects, and 
 
 ---
 
-## Areas of Practice
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/VAPT-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Penetration_Testing-991B1B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web_Application_Security-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vulnerability_Assessment-B45309?style=for-the-badge"/>
+## Security Competencies
+
+<img src="https://img.shields.io/badge/SOC_Operations-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blue_Team-0369A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SIEM_Monitoring-334155?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Alert_Triage-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Threat_Detection-991B1B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Log_Analysis-047857?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Incident_Investigation-B45309?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Malware_Analysis-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-92400E?style=for-the-badge"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Network_Security-0369A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Network_Enumeration-047857?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Log_Analysis-334155?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL_Injection-991B1B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_Application_Security-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Packet_Analysis-0E7490?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## TryHackMe
-
 <div align="center">
-
-<a href="https://tryhackme.com/p/AhadShk">
-<img src="https://tryhackme-badges.s3.amazonaws.com/AhadShk.png"/>
-</a>
-
-**Top 1% | 100+ Rooms Completed**
-
-</div>
-
----
-
-## My Portfolio
-
-<div align="center">
-
-Explore my projects, technical skills, and cybersecurity learning journey.
-
-<a href="https://portfolio-psi-three-y5gccvehps.vercel.app/">
-<img src="https://img.shields.io/badge/Explore_My_Portfolio-Visit_Website-14B8A6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 ## GitHub Statistics
 
-<div align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhadShaikh12&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhadShaikh12&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhadShaikh12&theme=transparent&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhadShaikh12&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhadShaikh12&layout=compact&theme=transparent&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhadShaikh12&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## Connect With Me
-
 <div align="center">
 
-<a href="https://portfolio-psi-three-y5gccvehps.vercel.app/">Portfolio</a>
-&nbsp; • &nbsp;
-<a href="https://www.linkedin.com/in/ahad-shaikh-747625279">LinkedIn</a>
-&nbsp; • &nbsp;
-<a href="https://tryhackme.com/p/AhadShk">TryHackMe</a>
-&nbsp; • &nbsp;
-<a href="mailto:ahad.shaikh@somaiya.edu">Email</a>
+## Connect With Me
+
+<a href="https://www.linkedin.com/in/ahad-shaikh-747625279/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/p/AhadShk">
+<img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-psi-three-y5gccvehps.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-14B8A6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AhadShaikh12&label=Profile%20Views&color=0e75b6&style=flat-square"/>
-
-<br/><br/>
-
-**Learn • Build • Test • Secure**
+**Learn • Analyse • Defend**
 
 </div>
