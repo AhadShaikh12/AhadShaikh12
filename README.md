@@ -30,9 +30,11 @@ I continuously develop my technical knowledge through hands-on labs, practical e
 </td>
 <td width="40%" align="center" valign="center">
 
-<img width="250" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+<a href="https://tryhackme.com/p/AhadShk">
+<img width="220" src="https://tryhackme-badges.s3.amazonaws.com/AhadShk.png" alt="TryHackMe Profile"/>
+</a>
 
-<br/>
+<br/><br/>
 
 **TRYHACKME**
 
