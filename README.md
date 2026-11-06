@@ -76,7 +76,6 @@ I continuously develop my skills through hands-on labs, technical projects, and 
 
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wazuh-1679A7?style=for-the-badge"/>
 
 </div>
 
