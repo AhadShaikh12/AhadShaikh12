@@ -39,7 +39,7 @@ I continuously develop my skills through hands-on labs, technical projects, and 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cs,html,css,js,react,dotnet,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,dotnet,git,github,vscode"/>
 
 </div>
 
